@@ -1,0 +1,7 @@
+{
+  "name": "alkhadara",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
